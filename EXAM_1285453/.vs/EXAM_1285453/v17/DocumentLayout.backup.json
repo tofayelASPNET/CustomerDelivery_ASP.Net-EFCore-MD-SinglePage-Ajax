@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4368C019-559C-42C3-BACE-EB3F7026AD12}|ex_1285453\\ex_1285453.csproj|f:\\isdb_new\\all project\\core_md_singlepage_codefirst_singlepage_ajax_java\\exam_1285453\\ex_1285453\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4368C019-559C-42C3-BACE-EB3F7026AD12}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4368C019-559C-42C3-BACE-EB3F7026AD12}|ex_1285453\\ex_1285453.csproj|f:\\isdb_new\\all project\\core_md_singlepage_codefirst_singlepage_ajax_java\\exam_1285453\\ex_1285453\\ex_1285453.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4368C019-559C-42C3-BACE-EB3F7026AD12}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\ex_1285453.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4368C019-559C-42C3-BACE-EB3F7026AD12}|ex_1285453\\ex_1285453.csproj|f:\\isdb_new\\all project\\core_md_singlepage_codefirst_singlepage_ajax_java\\exam_1285453\\ex_1285453\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4368C019-559C-42C3-BACE-EB3F7026AD12}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4368C019-559C-42C3-BACE-EB3F7026AD12}|ex_1285453\\ex_1285453.csproj|f:\\isdb_new\\all project\\core_md_singlepage_codefirst_singlepage_ajax_java\\exam_1285453\\ex_1285453\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4368C019-559C-42C3-BACE-EB3F7026AD12}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4368C019-559C-42C3-BACE-EB3F7026AD12}|ex_1285453\\ex_1285453.csproj|f:\\isdb_new\\all project\\core_md_singlepage_codefirst_singlepage_ajax_java\\exam_1285453\\ex_1285453\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4368C019-559C-42C3-BACE-EB3F7026AD12}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4368C019-559C-42C3-BACE-EB3F7026AD12}|ex_1285453\\ex_1285453.csproj|f:\\isdb_new\\all project\\core_md_singlepage_codefirst_singlepage_ajax_java\\exam_1285453\\ex_1285453\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4368C019-559C-42C3-BACE-EB3F7026AD12}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4368C019-559C-42C3-BACE-EB3F7026AD12}|ex_1285453\\ex_1285453.csproj|f:\\isdb_new\\all project\\core_md_singlepage_codefirst_singlepage_ajax_java\\exam_1285453\\ex_1285453\\models\\deliveryaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4368C019-559C-42C3-BACE-EB3F7026AD12}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\models\\deliveryaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4368C019-559C-42C3-BACE-EB3F7026AD12}|ex_1285453\\ex_1285453.csproj|f:\\isdb_new\\all project\\core_md_singlepage_codefirst_singlepage_ajax_java\\exam_1285453\\ex_1285453\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4368C019-559C-42C3-BACE-EB3F7026AD12}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ex_1285453.csproj",
+              "DocumentMoniker": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\ex_1285453\\ex_1285453.csproj",
+              "RelativeDocumentMoniker": "ex_1285453\\ex_1285453.csproj",
+              "ToolTip": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\ex_1285453\\ex_1285453.csproj",
+              "RelativeToolTip": "ex_1285453\\ex_1285453.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T12:15:15.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\ex_1285453\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ex_1285453\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\ex_1285453\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ex_1285453\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:43:47.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\ex_1285453\\Program.cs",
+              "RelativeDocumentMoniker": "ex_1285453\\Program.cs",
+              "ToolTip": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\ex_1285453\\Program.cs",
+              "RelativeToolTip": "ex_1285453\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:19:41.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\ex_1285453\\appsettings.json",
+              "RelativeDocumentMoniker": "ex_1285453\\appsettings.json",
+              "ToolTip": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\ex_1285453\\appsettings.json",
+              "RelativeToolTip": "ex_1285453\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-19T09:16:36.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\ex_1285453\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ex_1285453\\Models\\Customer.cs",
+              "ToolTip": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\ex_1285453\\Models\\Customer.cs",
+              "RelativeToolTip": "ex_1285453\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T03:27:23.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeliveryAddress.cs",
+              "DocumentMoniker": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\ex_1285453\\Models\\DeliveryAddress.cs",
+              "RelativeDocumentMoniker": "ex_1285453\\Models\\DeliveryAddress.cs",
+              "ToolTip": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\ex_1285453\\Models\\DeliveryAddress.cs",
+              "RelativeToolTip": "ex_1285453\\Models\\DeliveryAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T03:44:56.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\ex_1285453\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "ex_1285453\\Controllers\\CustomersController.cs",
+              "ToolTip": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\ex_1285453\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "ex_1285453\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:16:37.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "ex_1285453\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "F:\\IsDB_New\\All Project\\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "ex_1285453\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAiwB0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T04:18:01.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

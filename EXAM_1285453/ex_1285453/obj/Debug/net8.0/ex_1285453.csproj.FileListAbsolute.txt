@@ -1,0 +1,1090 @@
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.csproj.AssemblyReference.cache
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.GeneratedMSBuildEditorConfig.editorconfig
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.AssemblyInfoInputs.cache
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.AssemblyInfo.cs
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.csproj.CoreCompileInputs.cache
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.MvcApplicationPartsAssemblyInfo.cache
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.RazorAssemblyInfo.cache
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.RazorAssemblyInfo.cs
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\appsettings.Development.json
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\appsettings.json
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.staticwebassets.runtime.json
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.exe
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.deps.json
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.runtimeconfig.json
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.pdb
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Azure.Core.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Azure.Identity.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Humanizer.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Build.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Common.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.ClientModel.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.CodeDom.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Formats.Asn1.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets.build.json
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets.development.json
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets\msbuild.ex_1285453.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets\msbuild.build.ex_1285453.props
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ex_1285453.props
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ex_1285453.props
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\scopedcss\bundle\ex_1285453.styles.css
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\scopedcss\projectbundle\ex_1285453.bundle.scp.css
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.csproj.Up2Date
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\refint\ex_1285453.dll
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.pdb
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.genruntimeconfig.cache
+F:\Core_Class\Class_14\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ref\ex_1285453.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\appsettings.Development.json
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\appsettings.json
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.staticwebassets.runtime.json
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.staticwebassets.endpoints.json
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.exe
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.deps.json
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.runtimeconfig.json
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.pdb
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Azure.Core.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Azure.Identity.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Humanizer.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Common.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.ClientModel.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.CodeDom.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.csproj.AssemblyReference.cache
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.AssemblyInfoInputs.cache
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.AssemblyInfo.cs
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.csproj.CoreCompileInputs.cache
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.MvcApplicationPartsAssemblyInfo.cache
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.RazorAssemblyInfo.cache
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.RazorAssemblyInfo.cs
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\scopedcss\bundle\ex_1285453.styles.css
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\scopedcss\projectbundle\ex_1285453.bundle.scp.css
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets.build.json
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets.development.json
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets\msbuild.ex_1285453.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets\msbuild.ex_1285453.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets\msbuild.build.ex_1285453.props
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ex_1285453.props
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ex_1285453.props
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.csproj.Up2Date
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\refint\ex_1285453.dll
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.pdb
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.genruntimeconfig.cache
+D:\Lorem Ipsum\Core\New folder (2)\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ref\ex_1285453.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\appsettings.Development.json
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\appsettings.json
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.staticwebassets.runtime.json
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.exe
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.deps.json
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.runtimeconfig.json
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.pdb
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Azure.Core.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Azure.Identity.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Humanizer.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Build.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Common.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.ClientModel.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.CodeDom.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Formats.Asn1.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.csproj.AssemblyReference.cache
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.GeneratedMSBuildEditorConfig.editorconfig
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.AssemblyInfoInputs.cache
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.AssemblyInfo.cs
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.csproj.CoreCompileInputs.cache
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.MvcApplicationPartsAssemblyInfo.cache
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.RazorAssemblyInfo.cache
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.RazorAssemblyInfo.cs
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets.build.json
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets.development.json
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets\msbuild.ex_1285453.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets\msbuild.build.ex_1285453.props
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ex_1285453.props
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ex_1285453.props
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\scopedcss\bundle\ex_1285453.styles.css
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\scopedcss\projectbundle\ex_1285453.bundle.scp.css
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.csproj.Up2Date
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\refint\ex_1285453.dll
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.pdb
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.genruntimeconfig.cache
+F:\Core_Class\Class_15\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ref\ex_1285453.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\appsettings.Development.json
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\appsettings.json
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.staticwebassets.runtime.json
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.staticwebassets.endpoints.json
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.exe
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.deps.json
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.runtimeconfig.json
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ex_1285453.pdb
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Azure.Core.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Azure.Identity.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Humanizer.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Build.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Common.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.ClientModel.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.CodeDom.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Memory.Data.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.csproj.AssemblyReference.cache
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.GeneratedMSBuildEditorConfig.editorconfig
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.AssemblyInfoInputs.cache
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.AssemblyInfo.cs
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.csproj.CoreCompileInputs.cache
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.MvcApplicationPartsAssemblyInfo.cache
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.RazorAssemblyInfo.cache
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.RazorAssemblyInfo.cs
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\scopedcss\bundle\ex_1285453.styles.css
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\scopedcss\projectbundle\ex_1285453.bundle.scp.css
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets.build.json
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets.development.json
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.csproj.Up2Date
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\refint\ex_1285453.dll
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.pdb
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ex_1285453.genruntimeconfig.cache
+F:\IsDB_New\All Project\Core_MD_SinglePage_CodeFirst_SinglePage_Ajax_java\EXAM_1285453\ex_1285453\obj\Debug\net8.0\ref\ex_1285453.dll
